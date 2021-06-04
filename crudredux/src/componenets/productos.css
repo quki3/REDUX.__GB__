@@ -1,0 +1,7 @@
+#productos{
+    display:flex;
+    justify-content: space-between;
+
+    background-color: bisque;
+    width: 100%;
+}

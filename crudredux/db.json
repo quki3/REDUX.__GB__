@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "a",
+      "precio": 3,
+      "id": 7
+    },
+    {
+      "nombre": "asdf",
+      "precio": 3,
+      "id": 8
+    },
+    {
+      "nombre": "asdf",
+      "precio": 3,
+      "id": 9
+    },
+    {
+      "nombre": "riv Eye",
+      "precio": 400,
+      "id": 10
+    }
+  ]
+}
